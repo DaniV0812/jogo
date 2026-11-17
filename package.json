@@ -1,0 +1,7 @@
+{
+  "name": "defensor-do-espaco",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Space shooter 2D feito em HTML5 Canvas puro, sem dependências."
+}
